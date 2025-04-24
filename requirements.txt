@@ -1,0 +1,6 @@
+pydantic-ai
+logfire
+crewai
+crewai_tools
+load_dotenv
+langchain-huggingface
